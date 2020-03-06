@@ -11,7 +11,7 @@ My works related to React, a JavaScript library for building user interfaces.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="vue.png" height="150"> 
+<img src="react.png" height="150"> 
 React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 <br /><br />
 React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM, and so creating React applications usually requires the use of additional libraries for state management and routing. Redux and React Router are respective examples of such libraries.
