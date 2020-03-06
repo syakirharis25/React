@@ -21,10 +21,10 @@ React can be used as a base in the development of single-page or mobile applicat
 React official website : https://reactjs.org <br />
 Facebook official website : https://www.facebook.com <br />
 
-**_React documentation by < draft >_**
+**_React documentation by < draft >_** <br />
 draft
 
-**_React related articles_**
+**_React related articles_** <br />
 draft
 
 **_React related technologies_** <br />
