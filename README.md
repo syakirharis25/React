@@ -27,6 +27,7 @@ I created the exact same app in React and Vue. Here are the differences. by Suni
 <a name="developers"></a>
 ## 4. React developers.
 Sunil Sandhu : https://github.com/sunil-sandhu <br />
+Mosh Hamedani : https://github.com/mosh-hamedani <br />
 
 <a name="jobsn"></a>
 ## 5. React jobs.
