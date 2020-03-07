@@ -20,6 +20,10 @@ React can be used as a base in the development of single-page or mobile applicat
 ## 2. Official references websites. 
 React official website : https://reactjs.org <br />
 Facebook official website : https://www.facebook.com <br />
+React official documentation : https://reactjs.org <br />
+
+**_React documentation by reactjs.org_** <br />
+Virtual DOM and Internals by reactjs.org : https://reactjs.org/docs/faq-internals.html <br />
 
 **_React related technologies_** <br />
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
