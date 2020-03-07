@@ -21,6 +21,9 @@ React can be used as a base in the development of single-page or mobile applicat
 React official website : https://reactjs.org <br />
 Facebook official website : https://www.facebook.com <br />
 
+**_React related technologies_** <br />
+Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
+
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
 
