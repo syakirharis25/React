@@ -25,6 +25,7 @@ React official documentation : https://reactjs.org/docs <br />
 **_React documentation by reactjs.org_** <br />
 Virtual DOM and Internals by reactjs.org : https://reactjs.org/docs/faq-internals.html <br />
 Glossary of React Terms by reactjs.org : https://reactjs.org/docs/glossary.html <br />
+Component State by reactjs.org : https://reactjs.org/docs/faq-state.html <br />
 
 **_React related technologies_** <br />
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
