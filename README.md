@@ -60,7 +60,7 @@ Then do this commands,
 > npm start
 ```
 
-Then test whether the react server is working or not by typing `http:localhost:3000` on your browser address bar, and hit **[ Enter ]**
+Then test whether the react server is working or not by typing `http:localhost:3000` on your browser address bar, and hit **[ Enter ]**.
 
 <a name="conferences"></a>
 ## 4. React conferences.
