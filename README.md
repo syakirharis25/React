@@ -23,6 +23,9 @@ React official website : https://reactjs.org <br />
 Facebook official website : https://www.facebook.com <br />
 React official documentation : https://reactjs.org/docs <br />
 
+**_React questions and answers_**
+Stack Overflow questions and answers : https://stackoverflow.com <br />
+
 **_React documentation by reactjs.org_** <br />
 Virtual DOM and Internals by reactjs.org : https://reactjs.org/docs/faq-internals.html <br />
 Glossary of React Terms by reactjs.org : https://reactjs.org/docs/glossary.html <br />
@@ -34,9 +37,12 @@ Create React App by Facebook in GitHub : https://github.com/facebook/create-reac
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
 Google Chrome React Developer Tools : https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en <br />
 
-**_React related articles_** <br />
-I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+**_React questions and answers by Stack Overflow_** <br />
 Template not provided using create-react-app by Stack Overflow : https://stackoverflow.com/questions/59188624/template-not-provided-using-create-react-app <br />
+npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle?page=1&tab=votes#tab-top <br />
+
+**_React related articles_** <br />
+I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
 
 <a name="conferences"></a>
 ## 4. React conferences.
