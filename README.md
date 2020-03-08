@@ -36,6 +36,7 @@ Create React App by Facebook in GitHub : https://github.com/facebook/create-reac
 **_React related technologies_** <br />
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
 Google Chrome React Developer Tools : https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en <br />
+node-pre-gyp by npm : https://www.npmjs.com/package/node-pre-gyp <br />
 
 **_React questions and answers by Stack Overflow_** <br />
 Template not provided using create-react-app by Stack Overflow : https://stackoverflow.com/questions/59188624/template-not-provided-using-create-react-app <br />
