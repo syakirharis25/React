@@ -4,11 +4,12 @@ My works related to React, a JavaScript library for building user interfaces.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [React developers.](#developers)
-4. [React conferences.](#conferences)
-5. [React jobs.](#jobs)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+3. [Starting the development server.](#server)
+4. [React developers.](#developers)
+5. [React conferences.](#conferences)
+6. [React jobs.](#jobs)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -44,6 +45,22 @@ npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
+
+<a name="server"></a>
+## 3. Starting the development server.
+To start the React server, you need to add `C:\Windows\System32` into the windows environment PATH, follow this instructionss. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Windows\System32`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
+
+Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**.
+
+Then do this commands,
+```
+> cd your-working-folder
+> npx create-react app my-app
+> cd my-app
+> npm start
+```
+
+Then test whether the react server is working or not by typing `http:localhost:3000` on your browser address bar, and hit **[ Enter ]**
 
 <a name="conferences"></a>
 ## 4. React conferences.
