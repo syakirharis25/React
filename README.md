@@ -35,6 +35,7 @@ Google Chrome React Developer Tools : https://chrome.google.com/webstore/detail/
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+Template not provided using create-react-app by Stack Overflow : https://stackoverflow.com/questions/59188624/template-not-provided-using-create-react-app <br />
 
 <a name="developers"></a>
 ## 4. React developers.
