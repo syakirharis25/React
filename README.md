@@ -48,7 +48,7 @@ I created the exact same app in React and Vue. Here are the differences. by Suni
 
 <a name="server"></a>
 ## 3. Starting the development server.
-To start the React server, you need to add `C:\Windows\System32` into the windows environment PATH, follow this instructionss. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Windows\System32`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
+To start the React server, you need to add `C:\Windows\System32` into the windows environment PATH, follow this instructions. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Windows\System32`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
 
 Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**.
 
