@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Header from "./Header";
+import RootComp from "./Rootcomp";
 
-ReactDOM.render(<Header />, document.getElementById("root"));
+ReactDOM.render(<RootComp />, document.getElementById("root"));

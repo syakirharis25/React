@@ -1,11 +1,16 @@
 import React from "react";
 
-function myHeader() {
+function Header() {
   return (
     <div>
-      <p>this is our header component</p>
+      <p>this is the Header section</p>
+      <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+      </ul>
     </div>
   );
 }
 
-export default myHeader;
+export default Header;
