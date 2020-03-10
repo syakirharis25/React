@@ -32,8 +32,10 @@ Virtual DOM and Internals by reactjs.org : https://reactjs.org/docs/faq-internal
 Glossary of React Terms by reactjs.org : https://reactjs.org/docs/glossary.html <br />
 Component State by reactjs.org : https://reactjs.org/docs/faq-state.html <br />
 Create a New React App by reactjs.org : https://reactjs.org/docs/create-a-new-react-app.html <br />
-ReactDOM by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
-Components and Props : https://reactjs.org/docs/components-and-props.html <br />
+ReactDOM by reactjs.org by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
+Components and Props by reactjs.org : https://reactjs.org/docs/components-and-props.html <br />
+State and Lifecycle by reactjs.org : https://reactjs.org/docs/state-and-lifecycle.html <br />
+React Without ES6 y reactjs.org : https://reactjs.org/docs/react-without-es6.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
@@ -50,6 +52,8 @@ npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
+REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mobilunity.com/blog/react-js-developer-salary-in-different-countries/ <br />
+Understanding Constructors with React Components by alligator.io : https://alligator.io/react/constructors-with-react-components/ <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
