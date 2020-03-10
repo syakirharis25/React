@@ -50,6 +50,7 @@ npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
+REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mobilunity.com/blog/react-js-developer-salary-in-different-countries/ <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
