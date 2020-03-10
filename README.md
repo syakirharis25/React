@@ -35,6 +35,7 @@ Create a New React App by reactjs.org : https://reactjs.org/docs/create-a-new-re
 ReactDOM by reactjs.org by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
 Components and Props by reactjs.org : https://reactjs.org/docs/components-and-props.html <br />
 State and Lifecycle by reactjs.org : https://reactjs.org/docs/state-and-lifecycle.html <br />
+React Without ES6 y reactjs.org : https://reactjs.org/docs/react-without-es6.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
