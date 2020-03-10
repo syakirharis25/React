@@ -32,8 +32,9 @@ Virtual DOM and Internals by reactjs.org : https://reactjs.org/docs/faq-internal
 Glossary of React Terms by reactjs.org : https://reactjs.org/docs/glossary.html <br />
 Component State by reactjs.org : https://reactjs.org/docs/faq-state.html <br />
 Create a New React App by reactjs.org : https://reactjs.org/docs/create-a-new-react-app.html <br />
-ReactDOM by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
-Components and Props : https://reactjs.org/docs/components-and-props.html <br />
+ReactDOM by reactjs.org by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
+Components and Props by reactjs.org : https://reactjs.org/docs/components-and-props.html <br />
+State and Lifecycle by reactjs.org : https://reactjs.org/docs/state-and-lifecycle.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
