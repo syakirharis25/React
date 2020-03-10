@@ -36,6 +36,7 @@ ReactDOM by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
+Konga.com is Nigeria's largest online mall : https://www.konga.com <br />
 
 **_React related technologies_** <br />
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
