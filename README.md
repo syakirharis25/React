@@ -33,9 +33,11 @@ Glossary of React Terms by reactjs.org : https://reactjs.org/docs/glossary.html 
 Component State by reactjs.org : https://reactjs.org/docs/faq-state.html <br />
 Create a New React App by reactjs.org : https://reactjs.org/docs/create-a-new-react-app.html <br />
 ReactDOM by reactjs.org : https://reactjs.org/docs/react-dom.html <br />
+Components and Props : https://reactjs.org/docs/components-and-props.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
+Konga.com is Nigeria's largest online mall : https://www.konga.com <br />
 
 **_React related technologies_** <br />
 Draft: JSX Specification by Facebook : https://facebook.github.io/jsx/ <br />
