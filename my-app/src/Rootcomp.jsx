@@ -1,19 +1,29 @@
 import React, { Component } from "react";
+import Questions from "./Questions";
+import Quiz from "./Quiz";
 
 class RootComp extends Component {
   constructor() {
     super();
     this.state = {
-      isValid: "very false"
+      problem: Questions
     };
   }
 
   render() {
-    return (
-      <div>
-        <h4>This is the fact and it is {this.state.isValid}</h4>
-      </div>
-    );
+    const newProblem = this.state.problem.map(item => (
+      <Quiz
+        key={item.id}
+        firstq={item.firstq}
+        firsta={item.firsta}
+        firstop={item.firstop}
+        seconda={item.seconda}
+        secondop={item.secondop}
+        thirda={item.thirda}
+        thirdop={item.thirdop}
+      />
+    ));
+    return <div>{newProblem}</div>;
   }
 }
 
