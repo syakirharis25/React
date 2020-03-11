@@ -56,6 +56,7 @@ npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
 REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mobilunity.com/blog/react-js-developer-salary-in-different-countries/ <br />
 Understanding Constructors with React Components by alligator.io : https://alligator.io/react/constructors-with-react-components/ <br />
+setState() Gate by Eric Elliott : https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82 <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
@@ -106,6 +107,7 @@ Sunil Sandhu : https://github.com/sunil-sandhu <br />
 Mosh Hamedani : https://github.com/mosh-hamedani <br />
 Benjamin Dunphy : https://github.com/dunphyben <br />
 José Rossi : https://github.com/joserossi <br />
+Eric Elliott : https://github.com/ericelliott <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
