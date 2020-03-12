@@ -24,7 +24,7 @@ React official website : https://reactjs.org <br />
 Facebook official website : https://www.facebook.com <br />
 React official documentation : https://reactjs.org/docs <br />
 
-**_React questions and answers_**
+**_React questions and answers_** <br />
 Stack Overflow questions and answers : https://stackoverflow.com <br />
 
 **_React documentation by reactjs.org_** <br />
