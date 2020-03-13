@@ -38,6 +38,7 @@ State and Lifecycle by reactjs.org : https://reactjs.org/docs/state-and-lifecycl
 React Without ES6 by reactjs.org : https://reactjs.org/docs/react-without-es6.html <br />
 Lists and Keys by reactjs.org : https://reactjs.org/docs/lists-and-keys.html <br />
 Handling Events by reactjs.org : https://reactjs.org/docs/handling-events.html <br />
+Forms by reactjs.org : https://reactjs.org/docs/forms.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
@@ -52,12 +53,15 @@ node-pre-gyp by npm : https://www.npmjs.com/package/node-pre-gyp <br />
 **_React questions and answers by Stack Overflow_** <br />
 Template not provided using create-react-app by Stack Overflow : https://stackoverflow.com/questions/59188624/template-not-provided-using-create-react-app <br />
 npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle?page=1&tab=votes#tab-top <br />
+this.handleChange = this.handleChange.bind(this); [duplicate] by Stack Overflow : https://stackoverflow.com/questions/53846717/this-handlechange-this-handlechange-bindthis <br />
+What's the difference between “super()” and “super(props)” in React when using es6 classes? by Stack Overflow : https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e <br />
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
 REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mobilunity.com/blog/react-js-developer-salary-in-different-countries/ <br />
 Understanding Constructors with React Components by alligator.io : https://alligator.io/react/constructors-with-react-components/ <br />
 setState() Gate by Eric Elliott : https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82 <br />
+Understanding React `setState` by Kingsley Silas : https://css-tricks.com/understanding-react-setstate/ <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
@@ -109,6 +113,7 @@ Mosh Hamedani : https://github.com/mosh-hamedani <br />
 Benjamin Dunphy : https://github.com/dunphyben <br />
 José Rossi : https://github.com/joserossi <br />
 Eric Elliott : https://github.com/ericelliott <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
