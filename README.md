@@ -52,6 +52,7 @@ node-pre-gyp by npm : https://www.npmjs.com/package/node-pre-gyp <br />
 **_React questions and answers by Stack Overflow_** <br />
 Template not provided using create-react-app by Stack Overflow : https://stackoverflow.com/questions/59188624/template-not-provided-using-create-react-app <br />
 npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle?page=1&tab=votes#tab-top <br />
+this.handleChange = this.handleChange.bind(this); [duplicate] by Stack Overflow : https://stackoverflow.com/questions/53846717/this-handlechange-this-handlechange-bindthis <br />
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
