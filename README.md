@@ -58,6 +58,7 @@ I created the exact same app in React and Vue. Here are the differences. by Suni
 REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mobilunity.com/blog/react-js-developer-salary-in-different-countries/ <br />
 Understanding Constructors with React Components by alligator.io : https://alligator.io/react/constructors-with-react-components/ <br />
 setState() Gate by Eric Elliott : https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82 <br />
+Understanding React `setState` by Kingsley Silas : https://css-tricks.com/understanding-react-setstate/ <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
@@ -109,6 +110,7 @@ Mosh Hamedani : https://github.com/mosh-hamedani <br />
 Benjamin Dunphy : https://github.com/dunphyben <br />
 José Rossi : https://github.com/joserossi <br />
 Eric Elliott : https://github.com/ericelliott <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
