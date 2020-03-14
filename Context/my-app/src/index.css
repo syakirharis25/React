@@ -1,0 +1,28 @@
+.head{
+  color:green;
+  text-align: center;
+  margin-top: 80px;
+}
+.firstname{
+  text-align: center;
+  color: orange;
+}
+.lastname{
+  text-align: center;
+  color: orange;
+  background-color: grey;
+}
+.school{
+  text-align: center;
+  color: orange;
+}
+.button{
+  margin-left: 600px;
+  margin-top: 150px;
+  color: white;
+  background-color: green;
+  height: 60px;
+  width: 160px;
+  border-radius: 8px;
+  border: none;
+}
