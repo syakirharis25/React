@@ -39,6 +39,7 @@ React Without ES6 by reactjs.org : https://reactjs.org/docs/react-without-es6.ht
 Lists and Keys by reactjs.org : https://reactjs.org/docs/lists-and-keys.html <br />
 Handling Events by reactjs.org : https://reactjs.org/docs/handling-events.html <br />
 Forms by reactjs.org : https://reactjs.org/docs/forms.html <br />
+Refs and the DOM by reactjs.org : https://reactjs.org/docs/refs-and-the-dom.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
