@@ -118,6 +118,7 @@ Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
 Mosh Hamedani : https://github.com/mosh-hamedani<br />
 Sunil Sandhu : https://github.com/sunil-sandhu <br />
 Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com <br />
+David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
