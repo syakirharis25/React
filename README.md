@@ -63,6 +63,7 @@ REACT JS DEVELOPER SALARY IN DIFFERENT COUNTRIES by mobilunity.com : https://mob
 Understanding Constructors with React Components by alligator.io : https://alligator.io/react/constructors-with-react-components/ <br />
 setState() Gate by Eric Elliott : https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82 <br />
 Understanding React `setState` by Kingsley Silas : https://css-tricks.com/understanding-react-setstate/ <br />
+ReactJS | Importing and Exporting by GeeksForGeeks : https://www.geeksforgeeks.org/reactjs-importing-exporting/ <br />
 
 <a name="server"></a>
 ## 3. Starting the development server.
@@ -109,12 +110,12 @@ React Conf Japan : https://reactconf.jp/2020/ <br />
 
 <a name="developers"></a>
 ## 5. React developers.
-Sunil Sandhu : https://github.com/sunil-sandhu <br />
-Mosh Hamedani : https://github.com/mosh-hamedani <br />
-Benjamin Dunphy : https://github.com/dunphyben <br />
-José Rossi : https://github.com/joserossi <br />
-Eric Elliott : https://github.com/ericelliott <br />
-Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
+Benjamin Dunphy : https://github.com/dunphyben | React <br />
+Eric Elliott : https://github.com/ericelliott | React <br />
+José Rossi : https://github.com/joserossi | React <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
+Mosh Hamedani : https://github.com/mosh-hamedani | React <br />
+Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
