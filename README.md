@@ -46,6 +46,7 @@ Hooks at a Glance by reactjs.org : https://reactjs.org/docs/hooks-overview.html 
 Context by reactjs.org : https://reactjs.org/docs/context.html <br />
 Using the Effect Hook by reactjs.org : https://reactjs.org/docs/hooks-effect.html <br />
 React.Component by reactjs.org : https://reactjs.org/docs/react-component.html <br />
+Hooks API Reference by reactjs.org : https://reactjs.org/docs/hooks-reference.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
