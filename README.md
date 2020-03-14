@@ -111,12 +111,13 @@ React Conf Japan : https://reactconf.jp/2020/ <br />
 
 <a name="developers"></a>
 ## 5. React developers.
-Benjamin Dunphy : https://github.com/dunphyben | React <br />
-Eric Elliott : https://github.com/ericelliott | React <br />
-José Rossi : https://github.com/joserossi | React <br />
-Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
-Mosh Hamedani : https://github.com/mosh-hamedani | React <br />
-Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
+Benjamin Dunphy : https://github.com/dunphyben <br />
+Eric Elliott : https://github.com/ericelliott <br />
+José Rossi : https://github.com/joserossi <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
+Mosh Hamedani : https://github.com/mosh-hamedani<br />
+Sunil Sandhu : https://github.com/sunil-sandhu <br />
+Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
