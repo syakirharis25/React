@@ -127,6 +127,7 @@ Sunil Sandhu : https://github.com/sunil-sandhu <br />
 Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com <br />
 David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano <br />
 Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence <br />
+Hrishi Mittal : https://github.com/hrishimittal <br />
 
 <a name="jobsn"></a>
 ## 6. React jobs.
