@@ -136,16 +136,16 @@ React Conf Japan : https://reactconf.jp/2020/ <br />
 
 <a name="developers"></a>
 ## 6. React developers.
-Benjamin Dunphy : https://github.com/dunphyben <br />
-Eric Elliott : https://github.com/ericelliott <br />
-José Rossi : https://github.com/joserossi <br />
-Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
-Mosh Hamedani : https://github.com/mosh-hamedani<br />
-Sunil Sandhu : https://github.com/sunil-sandhu <br />
-Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com <br />
-David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano <br />
-Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence <br />
-Hrishi Mittal : https://github.com/hrishimittal <br />
+Benjamin Dunphy : https://github.com/dunphyben
+David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano
+Eric Elliott : https://github.com/ericelliott
+Hrishi Mittal : https://github.com/hrishimittal
+José Rossi : https://github.com/joserossi
+Kingsley Silas Chijioke : https://github.com/kinsomicrote
+Mosh Hamedani : https://github.com/mosh-hamedani
+Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence
+Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com
+Sunil Sandhu : https://github.com/sunil-sandhu
 
 <a name="jobsn"></a>
 ## 7. React jobs.
