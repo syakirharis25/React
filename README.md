@@ -67,6 +67,7 @@ this.handleChange = this.handleChange.bind(this); [duplicate] by Stack Overflow 
 What's the difference between “super()” and “super(props)” in React when using es6 classes? by Stack Overflow : https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e <br />
 What is useState() in React? by Stack Overflow : https://stackoverflow.com/questions/53165945/what-is-usestate-in-react <br />
 React and Matchmedia by Stack Overflow : https://stackoverflow.com/questions/53600406/react-and-matchmedia <br />
+How to disable button in React.js by Stack Overflow : https://stackoverflow.com/questions/41488715/how-to-disable-button-in-react-js <br />
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
