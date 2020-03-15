@@ -4,12 +4,13 @@ My works related to React, a JavaScript library for building user interfaces.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Starting the development server.](#server)
-4. [React developers.](#developers)
-5. [React conferences.](#conferences)
-6. [React jobs.](#jobs)
-7. [GitHub notes.](#github)
-8. [GitHub repository calculation.](#calculation)
+3. [Using Emmet in React.](#emmetreact)
+4. [Starting the development server.](#server)
+5. [React developers.](#developers)
+6. [React conferences.](#conferences)
+7. [React jobs.](#jobs)
+8. [GitHub notes.](#github)
+9. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -40,6 +41,14 @@ Lists and Keys by reactjs.org : https://reactjs.org/docs/lists-and-keys.html <br
 Handling Events by reactjs.org : https://reactjs.org/docs/handling-events.html <br />
 Forms by reactjs.org : https://reactjs.org/docs/forms.html <br />
 Refs and the DOM by reactjs.org : https://reactjs.org/docs/refs-and-the-dom.html <br />
+Introducing Hooks by reactjs.org : https://reactjs.org/docs/hooks-intro.html <br />
+Using the State Hook by reactjs.org : https://reactjs.org/docs/hooks-state.html <br />
+Hooks at a Glance by reactjs.org : https://reactjs.org/docs/hooks-overview.html <br />
+Context by reactjs.org : https://reactjs.org/docs/context.html <br />
+Using the Effect Hook by reactjs.org : https://reactjs.org/docs/hooks-effect.html <br />
+React.Component by reactjs.org : https://reactjs.org/docs/react-component.html <br />
+Hooks API Reference by reactjs.org : https://reactjs.org/docs/hooks-reference.html <br />
+Styling and CSS by reactjs.org : https://reactjs.org/docs/faq-styling.html <br />
 
 **_React projects_** <br />
 Create React App by Facebook in GitHub : https://github.com/facebook/create-react-app <br />
@@ -56,6 +65,9 @@ Template not provided using create-react-app by Stack Overflow : https://stackov
 npm ERR! code ELIFECYCLE by Stack Overflow : https://stackoverflow.com/questions/42308879/npm-err-code-elifecycle?page=1&tab=votes#tab-top <br />
 this.handleChange = this.handleChange.bind(this); [duplicate] by Stack Overflow : https://stackoverflow.com/questions/53846717/this-handlechange-this-handlechange-bindthis <br />
 What's the difference between “super()” and “super(props)” in React when using es6 classes? by Stack Overflow : https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e <br />
+What is useState() in React? by Stack Overflow : https://stackoverflow.com/questions/53165945/what-is-usestate-in-react <br />
+React and Matchmedia by Stack Overflow : https://stackoverflow.com/questions/53600406/react-and-matchmedia <br />
+How to disable button in React.js by Stack Overflow : https://stackoverflow.com/questions/41488715/how-to-disable-button-in-react-js <br />
 
 **_React related articles_** <br />
 I created the exact same app in React and Vue. Here are the differences. by Sunil Sandhu : https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd <br />
@@ -65,8 +77,22 @@ setState() Gate by Eric Elliott : https://medium.com/javascript-scene/setstate-g
 Understanding React `setState` by Kingsley Silas : https://css-tricks.com/understanding-react-setstate/ <br />
 ReactJS | Importing and Exporting by GeeksForGeeks : https://www.geeksforgeeks.org/reactjs-importing-exporting/ <br />
 
+<a name="emmetreact"></a>
+## 3. Using Emmet in React.
+Emmet (formerly Zen Coding) is a set of plug-ins for text editors that allow for high-speed coding and editing in HTML, XML, XSL, and other structured code formats via content assist. The project was started by Vadim Makeev in 2008 and continues to be actively developed by Sergey Chikuyonok and Emmet users. Since 2015 Mikael Geletsyan is responsible for UX at Emmet. The tools have been incorporated into several popular text editors, as well as some plug-ins developed by the Emmet team and others implemented independently. However, Emmet is primarily independent from any text editor, as the engine works directly with text rather than with any particular software.
+
+To use Emmet in React using the Visual Studio Code text editor, if the Explorer sidebar is not on the screen then press **[ Ctrl ]** + **[ B ]** to make sure the side bar Explorer is visible on the screen, under `.vscode` folder, **[ Mouse Left Click ]** on `settings.json`, then type the commands below,
+```
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      }
+}
+```
+And then press **[ Ctrl ]** + **[ S ]** to save the file to be able to use Emmet inside the React environment.
+
 <a name="server"></a>
-## 3. Starting the development server.
+## 4. Starting the development server.
 To start the React server, you need to add `C:\Windows\System32` into the windows environment PATH, follow this instructions. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Windows\System32`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
 
 Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**.
@@ -82,7 +108,7 @@ Then do this commands,
 Then test whether the react server is working or not by typing `http:localhost:3000` on your browser address bar, and hit **[ Enter ]**.
 
 <a name="conferences"></a>
-## 4. React conferences.
+## 5. React conferences.
 React conferences by reactjs.org : https://reactjs.org/community/conferences.html <br />
 Full list of React Conferences in 2020 by Benjamin Dunphy : https://dev.to/benghamine/full-list-of-react-conferences-in-2020-1a3o <br />
 React Summit Amsterdam : https://reactsummit.com <br />
@@ -109,16 +135,20 @@ React La Conferencia : https://reactlaconf.co <br />
 React Conf Japan : https://reactconf.jp/2020/ <br />
 
 <a name="developers"></a>
-## 5. React developers.
-Benjamin Dunphy : https://github.com/dunphyben | React <br />
-Eric Elliott : https://github.com/ericelliott | React <br />
-José Rossi : https://github.com/joserossi | React <br />
-Kingsley Silas Chijioke : https://github.com/kinsomicrote | React <br />
-Mosh Hamedani : https://github.com/mosh-hamedani | React <br />
-Sunil Sandhu : https://github.com/sunil-sandhu | React <br />
+## 6. React developers.
+Benjamin Dunphy : https://github.com/dunphyben <br />
+Eric Elliott : https://github.com/ericelliott <br />
+José Rossi : https://github.com/joserossi <br />
+Kingsley Silas Chijioke : https://github.com/kinsomicrote <br />
+Mosh Hamedani : https://github.com/mosh-hamedani<br />
+Sunil Sandhu : https://github.com/sunil-sandhu <br />
+Sophie Alpert : https://github.com/sophiebits, https://twitter.com/sophiebits, https://sophiebits.com <br />
+David Khourshid : https://github.com/davidkpiano, https://twitter.com/DavidKPiano <br />
+Ryan Florence : https://github.com/ryanflorence, https://twitter.com/ryanflorence <br />
+Hrishi Mittal : https://github.com/hrishimittal <br />
 
 <a name="jobsn"></a>
-## 6. React jobs.
+## 7. React jobs.
 React jobs by react-jobs.com : https://www.react-jobs.com <br />
 React jobs by remote : https://remoteok.io/remote-react-jobs <br />
 React jobs by indeed : https://www.indeed.com/q-React-jobs.html <br />
@@ -126,7 +156,7 @@ React jobs by upwork : https://www.upwork.com/freelance-jobs/react-js/ <br />
 React jobs by Stack Overflow : https://stackoverflow.com/jobs/developer-jobs-using-reactjs <br />
  
 <a name="github"></a>
-## 7. GitHub notes.
+## 8. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/React.git
@@ -136,8 +166,36 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 8. GitHub repository calculation.
+## 9. GitHub repository calculation.
 ```
-draft
+---------------------------------------------------------------------------------------
+Language                             files          blank        comment           code
+---------------------------------------------------------------------------------------
+JavaScript                           16068         237254         234154        1297458
+JSON                                  3670            260              0         355039
+Markdown                              1960          80755              4         199587
+TypeScript                            1687           7983          63732          53139
+HTML                                    54          25493             21          47237
+YAML                                   179             91             90           3177
+Bourne Shell                           136            450            140           2630
+XML                                     10            233             11           2179
+CSS                                     36            373            557           1917
+CoffeeScript                            27            591             51           1513
+DOS Batch                              129            106              0           1327
+diff                                     2             97            280           1150
+PowerShell                              53             53            159            742
+Windows Module Definition                5             88              0            454
+JSX                                     20             55              0            379
+make                                    12             79             31            207
+SVG                                      1              0              1             89
+JSON5                                    1              0              0             55
+Bourne Again Shell                       2             11              1             43
+TOML                                     1              2              0             39
+Handlebars                               1              5              0             23
+EJS                                      1              0              0              9
+Lisp                                     1              0              0              6
+---------------------------------------------------------------------------------------
+SUM:                                 24056         353979         299232        1968399
+---------------------------------------------------------------------------------------
 ```
 Refer to : https://github.com/syakirharis25/cloc
